@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
-        Climber test = new Climber();
+        Climb test = new Climb();
         Scanner in = new Scanner(System.in);
         System.out.print("Длина маршута: ");
         int length = in.nextInt();
